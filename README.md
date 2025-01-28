@@ -29,15 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - Git, GitHub Actions
 - Postman
 
----
-
-## 📈 GitHub Stats
-
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanunagar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanunagar&layout=compact&theme=radical)
-
----
 
 ## 🔗 Connect with Me
 
