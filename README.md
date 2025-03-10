@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript (ES6+)
+- JavaScript 
 
 ### Frameworks & Libraries
 - Backend: Node.js, Express.js
@@ -28,6 +28,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 ### Tools & Platforms
 - Git, GitHub Actions
 - Postman
+- Redis
+- socket.io
+- cloudinary
+- joi
 
 
 ## 🔗 Connect with Me
