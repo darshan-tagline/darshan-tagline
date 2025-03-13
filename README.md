@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://in.linkedin.com/in/darshan-unagar-85260526b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/darshan-unagar-85260526b)
 
 ---
 
