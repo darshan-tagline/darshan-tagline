@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - JavaScript 
 
 ### Frameworks & Libraries
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js, Mongoose
+- Validation: Joi
 
 ### Databases
 - MongoDB
-- MySQL
 
 ### Tools & Platforms
 - Git, GitHub Actions
@@ -31,7 +31,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - Redis
 - socket.io
 - cloudinary
-- joi
+- PM2
+- CronJob
 
 
 ## 🔗 Connect with Me
