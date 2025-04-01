@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - 🌱 Currently learning: Advanced backend architectures, cloud computing, and DevOps.
 - 👨‍💻 Experienced in: JavaScript, Node.js, MongoDB, Express.js, and more.
 - 🎯 Goals for 2025: Contribute to open-source projects, enhance my knowledge of microservices, and explore AI-driven applications.
-- 📫 How to reach me: [darshanun.taglineinfotech@gmail.com](mailto:darshanun.taglineinfotech@gmail.com)
+- 📫 How to reach me: [darshanun.taglineinfotech@gmail.com](mailto:dua@taglineinfotech.com)
 
 ---
 
